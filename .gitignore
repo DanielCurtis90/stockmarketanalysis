@@ -1,0 +1,4 @@
+StockData/
+*.csv
+*.dat
+dbconfig.py
